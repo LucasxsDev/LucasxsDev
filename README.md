@@ -1,42 +1,114 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="280" viewBox="0 0 900 280">
-  <defs>
-    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
-      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#ffffff" stroke-opacity="0.04" stroke-width="1"/>
-    </pattern>
-    <clipPath id="reveal">
-      <rect x="40" y="105" width="0" height="90">
-        <animate attributeName="width" from="0" to="480" dur="1.4s" begin="0.5s" fill="freeze"/>
-      </rect>
-    </clipPath>
-  </defs>
+<div align="center">
 
-  <rect width="900" height="280" rx="14" fill="#000000"/>
-  <rect width="900" height="280" rx="14" fill="url(#grid)"/>
-  <rect x="0.5" y="0.5" width="899" height="279" rx="14" fill="none" stroke="#ffffff" stroke-opacity="0.18"/>
+<img src="https://raw.githubusercontent.com/LucasxsDev/LucasxsDev/main/assets/banner.svg" alt="Lucas Eduardo - Estudante de Programação | Análise de Dados" width="100%"/>
 
-  <circle cx="34" cy="30" r="6" fill="#444444"/>
-  <circle cx="54" cy="30" r="6" fill="#777777"/>
-  <circle cx="74" cy="30" r="6" fill="#aaaaaa"/>
-  <text x="450" y="35" text-anchor="middle" fill="#666666" font-size="13" font-family="Consolas, Menlo, 'Liberation Mono', monospace">lucas@github: ~</text>
-  <line x1="0" y1="54" x2="900" y2="54" stroke="#ffffff" stroke-opacity="0.1"/>
+<br>
 
-  <text x="40" y="100" fill="#888888" font-size="18" font-family="Consolas, Menlo, 'Liberation Mono', monospace">$ whoami</text>
+<a href="https://github.com/LucasxsDev">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=808080&center=true&vCenter=true&width=620&lines=Estudando+programa%C3%A7%C3%A3o+na+pr%C3%A1tica;Transformando+dados+em+respostas;Um+commit+de+cada+vez" alt="Typing animation" />
+</a>
 
-  <g clip-path="url(#reveal)">
-    <text x="40" y="170" fill="#ffffff" font-size="64" font-weight="bold" textLength="470" lengthAdjust="spacingAndGlyphs" font-family="Consolas, Menlo, 'Liberation Mono', monospace">Lucas Eduardo</text>
-  </g>
+</div>
 
-  <rect x="522" y="122" width="14" height="52" fill="#ffffff" opacity="0">
-    <animate attributeName="opacity" values="1;0;1" dur="1s" begin="2s" repeatCount="indefinite"/>
-  </rect>
+<br>
 
-  <text x="40" y="214" fill="#bbbbbb" font-size="20" opacity="0" font-family="Consolas, Menlo, 'Liberation Mono', monospace">
-    estudante de programação | análise de dados
-    <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="1.9s" fill="freeze"/>
-  </text>
+## ▍ Sobre mim
 
-  <text x="40" y="250" fill="#666666" font-size="14" opacity="0" font-family="Consolas, Menlo, 'Liberation Mono', monospace">
-    python · linux · git · postgresql · power bi · fastapi
-    <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="2.3s" fill="freeze"/>
-  </text>
-</svg>
+Sou o **Lucas Eduardo**, estudante de programação com foco em **análise de dados**.
+
+Estou construindo minha base com Python e ferramentas que fazem parte do dia a dia de quem trabalha com dados, e documento essa evolução aqui no GitHub, projeto por projeto.
+
+- 🐍 Praticando **Python** e versionando tudo com **Git**
+- 📊 Explorando dados com **Excel**, **Power BI** e **PostgreSQL**
+- ⚙️ Dando os primeiros passos em APIs com **FastAPI**
+- 🐧 Usando **Linux Ubuntu** no dia a dia
+
+<br>
+
+## ▍ Tecnologias
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Ubuntu-000000?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white)
+
+</div>
+
+<br>
+
+## ▍ Projetos
+
+<div align="center">
+
+<a href="https://github.com/LucasxsDev/Python-First-Steps">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasxsDev&repo=Python-First-Steps&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff&border_color=ffffff" alt="Python-First-Steps" />
+</a>
+
+</div>
+
+<br>
+
+## ▍ Estatísticas
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=LucasxsDev&show_icons=true&hide_border=false&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff&border_color=ffffff" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasxsDev&layout=compact&bg_color=000000&title_color=ffffff&text_color=cccccc&border_color=ffffff" alt="Top Languages" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=LucasxsDev&background=000000&border=FFFFFF&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=CCCCCC&dates=888888" alt="GitHub Streak" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LucasxsDev&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=FFFFFF&hide_border=true" alt="Activity Graph" width="100%" />
+
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=LucasxsDev&theme=onedark&no-frame=true&no-bg=true&row=2&column=4&margin-w=15" alt="GitHub Trophies" />
+
+</div>
+
+<br>
+
+## ▍ Contribuições
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucasxsDev/LucasxsDev/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucasxsDev/LucasxsDev/output/github-snake.svg" />
+  <img alt="Snake contribution graph" src="https://raw.githubusercontent.com/LucasxsDev/LucasxsDev/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+<br>
+
+## ▍ Vamos conversar
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-eduardo-5b9a46373)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Devlucaxs)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LucasxsDev)
+
+</div>
+
+<br>
+
+<div align="center">
+
+<sub>`while True: aprender()`</sub>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer" alt="Rodapé" width="100%"/>
+
+</div>
