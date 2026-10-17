@@ -1,9 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=Lucas%20Cruz&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Estudante%20de%20Programa%C3%A7%C3%A3o%20%7C%20An%C3%A1lise%20de%20Dados&descSize=18&descAlignY=58&descColor=bbbbbb" alt="Banner Lucas Cruz" width="100%"/>
+<img src="https://raw.githubusercontent.com/LucasxsDev/LucasxsDev/main/assets/banner.svg" alt="Lucas Eduardo - Estudante de Programação | Análise de Dados" width="100%"/>
+
+<br>
 
 <a href="https://github.com/LucasxsDev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=808080&center=true&vCenter=true&width=620&lines=print('Ol%C3%A1%2C+mundo!');;Estudando+programa%C3%A7%C3%A3o+na+pr%C3%A1tica;Transformando+dados+em+respostas;Um+commit+de+cada+vez" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=808080&center=true&vCenter=true&width=620&lines=Estudando+programa%C3%A7%C3%A3o+na+pr%C3%A1tica;Transformando+dados+em+respostas;Um+commit+de+cada+vez" alt="Typing animation" />
 </a>
 
 </div>
@@ -63,14 +65,6 @@ Estou construindo minha base com Python e ferramentas que fazem parte do dia a d
 
 <img src="https://streak-stats.demolab.com?user=LucasxsDev&background=000000&border=FFFFFF&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=CCCCCC&dates=888888" alt="GitHub Streak" />
 
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LucasxsDev&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=FFFFFF&hide_border=true" alt="Activity Graph" width="100%" />
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=LucasxsDev&theme=onedark&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-
 </div>
 
 <br>
@@ -104,6 +98,8 @@ Estou construindo minha base com Python e ferramentas que fazem parte do dia a d
 <div align="center">
 
 <sub>`while True: aprender()`</sub>
+
+<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer" alt="Rodapé" width="100%"/>
 
