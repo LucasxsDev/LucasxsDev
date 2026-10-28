@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/LucasxsDev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=808080&center=true&vCenter=true&width=620&lines=Estudando+programa%C3%A7%C3%A3o+na+pr%C3%A1tica;%44esenvolvendo+habilidades+e+construindo+projeto%73;Python+%7C+Dados+%7C+Tecnologia" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=22&pause=1200&color=808080&center=true&vCenter=true&width=620&lines=Estudando+programa%C3%A7%C3%A3o+na+pr%C3%A1tica;%44esenvolvendo+habilidades+e+construindo+projeto%73;Python+%7C+Dados+%7C+Tecnologia" alt="Typing animation" />
   </a>
 </p>
 
