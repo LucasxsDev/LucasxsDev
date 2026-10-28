@@ -5,7 +5,7 @@
 <br>
 
 <a href="https://github.com/LucasxsDev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=808080&center=true&vCenter=true&width=620&lines=Estudando+programa%C3%A7%C3%A3o+na+pr%C3%A1tica;Transformando+dados+em+respostas;Um+commit+de+cada+vez" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=808080&center=true&vCenter=true&width=620&lines=Estudando+programa%C3%A7%C3%A3o+na+pr%C3%A1tica;Desenvolvendo+habilidades+,+ construindo+projetos;Python,+ dados+e+tecnologia+." alt="Typing animation" />
 </a>
 
 </div>
