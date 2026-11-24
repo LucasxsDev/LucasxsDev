@@ -60,6 +60,10 @@ Estou construindo minha base com Python e ferramentas que fazem parte do dia a d
 <a href="https://github.com/LucasxsDev/Python-First-Steps">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasxsDev&repo=Python-First-Steps&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff&border_color=ffffff" alt="Python-First-Steps" />
 </a>
+&nbsp;&nbsp;
+<a href="https://github.com/LucasxsDev/Conta-Banc-ria-em-POO">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasxsDev&repo=Conta-Banc-ria-em-POO&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=ffffff&border_color=ffffff" alt="Conta Bancária em POO" />
+</a>
 
 </div>
 
